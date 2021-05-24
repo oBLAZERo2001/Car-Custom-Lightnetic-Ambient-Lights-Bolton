@@ -71,6 +71,9 @@
         .nav1 ul li a {
             width: 100%;
         }
+        .login {
+            min-width: 100px;
+        }
     }
     
     body {
