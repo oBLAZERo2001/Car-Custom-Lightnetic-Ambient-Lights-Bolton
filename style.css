@@ -393,10 +393,7 @@ body {
 
 @media screen and (max-width: 600px) {
     .c422 {
-        text-align: center;
         margin: 1rem;
-        display: flex;
-        flex-wrap: wrap;
     }
 }
 
