@@ -586,6 +586,13 @@
     
     @media all and (max-width: 600px) {
         .c62 {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0 10%;
+            padding-bottom: 100px;
+            width: 100%;
+        }
+        .c62 {
             margin: 0 19%;
             padding-bottom: 100px;
         }
@@ -594,10 +601,10 @@
             color: black;
             text-align: center;
             height: 300px;
-            width: 250px;
+            width: 400px;
         }
         .c621 img {
-            width: 250px;
+            width: 350px;
             height: 250px;
         }
         .c622 p {
